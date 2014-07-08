@@ -6,24 +6,24 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,
 
 
 
-#first_index{width:auto;text-align:left;position:relative;padding:4em 0 6em 0;color:#0075C2;box-shadow:0 1px 2px rgba(0,0,0,.25);text-shadow:0 0 1px rgba(0,0,0,.05),0 1px 2px rgba(0,0,0,.3);background:#E9E9E9}
-#first_index:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
-          background:url(/images/jazz.png) repeat center center;}/*加背景色的地方*/
+#first_index{width:auto;text-align:left;position:relative;padding:4em 0 6em 0;color:#fff}
 #first_index span.weiyi{color:#F08300}
+#first_index:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
+          background:url(/img/111.jpg) repeat center center;}/*加背景色的地方*/
 
 
 
-
-#two_index{width:auto;text-align:center;position:relative;padding:4em 0 6em 0;color:#000;box-shadow:0 1px 2px rgba(0,0,0,.25);text-shadow:0 0 1px rgba(0,0,0,.05),0 1px 2px rgba(0,0,0,.3);background:#FFF}
-#two_index:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
-          background:url(/images/jazz.png) repeat center center;}/*加背景色的地方*/
+#two_index{width:auto;text-align:center;position:relative;padding:4em 0 6em 0;color:#000}
 #two_index span.weiyi{color:#F08300}
+#two_index:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
+          background:url(/img/222.jpg) repeat center center;}/*加背景色的地方*/
 
-
-#three_index{width:auto;text-align:center;position:relative;padding:4em 0 6em 0;color:#000;box-shadow:0 1px 2px rgba(0,0,0,.25);text-shadow:0 0 1px rgba(0,0,0,.05),0 1px 2px rgba(0,0,0,.3);background:#E9E9E9}
-#three_index:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
-          background:url(/images/jazz.png) repeat center center;}/*加背景色的地方*/
+#three_index{width:auto;text-align:center;position:relative;padding:4em 0 6em 0;color:#000}
 #three_index span.three{color:#007EC5}
+#three_index:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
+          background:url(/img/333.jpg) repeat center center;}/*加背景色的地方*/
+
+
 
 #hostline p.hostline{color:#007EC5;font-size:2.0em;font-weight:bold}
 #hostline{background-color:#FFFFFF;border-bottom:2px #CCCCCC solid; }
@@ -31,16 +31,37 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,
 #bgcolor{backgound-color:red;}
 
 #footer_font {font-size:24px}
-#footer_font1{font-size:16px}
+#footer_font1{font-size:16px;color:#000}
+#copyright{font: 18px arial;color:#007EC5}
+
+.head_mid{width:auto;height:66px;margin: 0 auto;}
+#logo{float:left;padding-top:14px;padding-left:10px;}
+.hm_right{float:right;}
+.hotline{padding-right:24px;float:left}
+.hotline span{font-weight: bold;color:#alalal;line-height: 14px}
+.hotline p{font-weight: bold; font-size:26px; line-height:30px; color:#ed1b23; font-family: Arial}
 
 
 
 
+.first_index{width:auto;text-align:left;position:relative;padding:4em 0 6em 0;color:#fff;}
+.first_index span.weiyi{color:#F08300}
+.first_index{text-algin: center;margin:auto;  background:url(/img/111.jpg) repeat center center; 
+background-size: cover;margin-top:-155px}
+
+.two_index{text-algin: center;margin:auto;  background:url(/img/222.jpg) repeat center center; 
+background-size: cover; }
+.two_index{width:auto;text-align:center;position:relative;padding:4em 0 6em 0;color:#000;margin-top:-140px}
+.two_index span.weiyi{color:#F08300}
 
 
+.three_index{text-algin: center;margin:auto;  background:url(/img/333.jpg) repeat center center; 
+background-size: cover; min-width:320px; height:100%; padding-top:30px; padding-bottom: 30px}
+.three_index{width:auto;text-align:center;position:relative;padding:4em 0 6em 0;color:#000;margin-top:-140px}
+.three_index span.three{color:#007EC5}
 
 
-
-
+.about_us{text-algin: center;margin:auto;  background:url(/img/333.jpg) repeat center center; 
+background-size: cover; min-width:320px; height:100%; padding-top:30px; padding-bottom: 30px}
 
 
